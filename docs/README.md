@@ -43,6 +43,7 @@ uvicorn --app-dir eqnet app:app --reload --host 0.0.0.0 --port 7860
 ```
 
 ## Application
+```
 http://<your-ec2-public-ip>:7860
 http://ec2-34-216-250-65.us-west-2.compute.amazonaws.com:7860
-
+```
